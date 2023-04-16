@@ -1,0 +1,56 @@
+{
+  "6yFKht": {
+    "col": 27,
+    "defaultMessage": "Select a language",
+    "description": "Language dropdown label",
+    "end": 1110,
+    "file": "src/components/LanguageSelector/LanguageSelector.tsx",
+    "line": 37,
+    "start": 1005
+  },
+  "C87aoG": {
+    "col": 40,
+    "defaultMessage": "Item count",
+    "description": "count field",
+    "end": 1670,
+    "file": "src/components/App/App.tsx",
+    "line": 54,
+    "start": 1563
+  },
+  "DS/OQx": {
+    "col": 12,
+    "defaultMessage": "Use the form below to see the samples",
+    "description": "Form header",
+    "end": 1060,
+    "file": "src/components/App/App.tsx",
+    "line": 33,
+    "start": 919
+  },
+  "NJXuvt": {
+    "col": 30,
+    "defaultMessage": "Localization demo",
+    "description": "title",
+    "end": 616,
+    "file": "src/components/App/App.tsx",
+    "line": 15,
+    "start": 538
+  },
+  "pbybEX": {
+    "col": 10,
+    "defaultMessage": "{name} has shared {count, plural, =0 {no photos} one {a photo} other {# photos}} with you on {date, date, ::MMMM d yyyy}.",
+    "description": "Description of items being shared with user",
+    "end": 2328,
+    "file": "src/components/App/App.tsx",
+    "line": 69,
+    "start": 1945
+  },
+  "x4ffLB": {
+    "col": 40,
+    "defaultMessage": "Friend's name",
+    "description": "name field",
+    "end": 1301,
+    "file": "src/components/App/App.tsx",
+    "line": 41,
+    "start": 1192
+  }
+}
