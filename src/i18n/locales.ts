@@ -38,11 +38,11 @@ export const loadLocaleStrings = async (locale: string) => {
 
   // The default locale is automatically loaded into the main bundle
   //  no need to load the bundle again
-  if (locale.toLowerCase() === defaultLocale.toLowerCase()) {
-    return Promise.resolve();
-  } else {
-    return (await localeBundles[locale]()).default;
-  }
+  // if (locale.toLowerCase() === defaultLocale.toLowerCase()) {
+  //   return Promise.resolve();
+  // } else {
+  return (await localeBundles[locale]()).default;
+  // }
 };
 
 // So we don't load each import at compile time, we have wrapped these into
